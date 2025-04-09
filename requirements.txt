@@ -1,0 +1,9 @@
+click
+matplotlib
+numpy
+pandas
+Pillow
+pip
+plotly
+scikit-learn
+streamlit
