@@ -23,7 +23,7 @@ A comprehensive data analysis and visualization project for Formula 1 racing dat
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/formula1-analysis.git
+git clone https://github.com/sarathi7777/formula1-analysis.git
 cd formula1-analysis
 ```
 
