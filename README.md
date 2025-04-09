@@ -90,14 +90,6 @@ The project uses various CSV files containing Formula 1 data:
 - Pillow
 - click==8.1.3
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - Formula 1 for the data
